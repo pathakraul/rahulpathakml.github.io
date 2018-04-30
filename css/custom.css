@@ -57,6 +57,9 @@
     src: url('../fonts/WhitneyHTF-Medium.otf'); /*URL to font*/
 }
 
+.post-card-date {
+  color: #5162e4a3;
+}
 .outer {
     position: relative;
     padding: 0 4vw;
