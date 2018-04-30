@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets on </title>
+    <link>https://rahulpathakml.github.io/snippets/</link>
+    <description>Recent content in Snippets on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Apr 2015 22:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rahulpathakml.github.io/snippets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Snippets</title>
+      <link>https://rahulpathakml.github.io/snippets/code/</link>
+      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/snippets/code/</guid>
+      <description> Computer Vision  detect-crop-faces&amp;mdash; Detect and Crop faces in a photo pixel-intensity-3dplot&amp;mdash; Grayscale image pixel intensity plot  </description>
+    </item>
+    
+    <item>
+      <title>Detect and Crop Faces</title>
+      <link>https://rahulpathakml.github.io/snippets/cv/detectfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/snippets/cv/detectfaces/</guid>
+      <description>Steps 1. Accept a color image. 2. Convert the image to grayscale. 3. Detect faces contained in the image. 4. Crop all detected faces.
+import cv2 import numpy as np import matplotlib.pyplot as plt %matplotlib inline 1. Accept a color image. imagefile = &amp;#34;obamas.jpg&amp;#34; img = cv2.imread(imagefile) 2. Convert into grayscale. By default opencv reads the image in BGR format. BGR format can be directly converted into grayscale image but here I also want to keep RGB format for display purpose.</description>
+    </item>
+    
+    <item>
+      <title>Grayscale Image Pixel Intensity 3D Plot</title>
+      <link>https://rahulpathakml.github.io/snippets/cv/intensityplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/snippets/cv/intensityplot/</guid>
+      <description>Steps 1. Accept a color/grayscale image. 2. Convert image into grayscale if its not 3. Generate a meshgrid and plot the pixel values at z axis. import fire import numpy as np import matplotlib.pyplot as plt from mpl_toolkits.mplot3d import Axes3D import cv2 1. Accept a color/grayscale image. img_bgr = cv2.imread(&amp;#39;lincon.png&amp;#39;) 2. Convert image into grayscale if its not. img_gray = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2GRAY) plt.imshow(img_gray, cmap=&amp;#39;gray&amp;#39;) 3. Generate a meshgrid and plot the pixel values at z axis.</description>
+    </item>
+    
+  </channel>
+</rss>

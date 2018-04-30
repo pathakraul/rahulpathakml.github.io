@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/model-evaluation-in-machine-learning/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/image-representation--analysis---computer-vision-nanodegree/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/understanding-image-structure---image-coordinate-system./</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/understanding-image-structure---matrix-representation-of-image./</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/a-refresher-for-numpy-numerical-computation-on-high-gears/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/example-content---markdown/</loc>
+    <lastmod>2016-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/about/</loc>
+    <lastmod>2015-04-14T22:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/snippets/code/</loc>
+    <lastmod>2015-04-14T22:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/snippets/cv/detectfaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/snippets/cv/intensityplot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/tags/hydejack/</loc>
+    <lastmod>2016-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/tags/machinelearning/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/categories/numpy/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/post/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/categories/python/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/snippets/</loc>
+    <lastmod>2015-04-14T22:17:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rahulpathakml.github.io/tags/</loc>
+    <lastmod>2016-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

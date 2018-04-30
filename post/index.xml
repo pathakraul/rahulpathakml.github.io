@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://rahulpathakml.github.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rahulpathakml.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model Evaluation in Machine Learning</title>
+      <link>https://rahulpathakml.github.io/post/model-evaluation-in-machine-learning/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/model-evaluation-in-machine-learning/</guid>
+      <description>Each and every problem in machine learning and deep learning requires evaluation of outcomes which differentiates a good model from a bad model. What I mean is that we need to define the ways to evaluate the model goodness - Model Evaluation.
+What&amp;rsquo;s the need of evaluation? Before shipping out the trained model its imperative to evaluate how well model will perform on the data which it will see for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Image Representation &amp; Analysis - Computer Vision Nanodegree</title>
+      <link>https://rahulpathakml.github.io/post/image-representation--analysis---computer-vision-nanodegree/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/image-representation--analysis---computer-vision-nanodegree/</guid>
+      <description>Computer Vision Pipeline Input Data &amp;gt; Preprocessing &amp;gt; Selection of Area of Interest &amp;gt; Feature Extraction &amp;gt; Predection/Recognition 1. Input Data Input data is the images
+2. Preprocessing Preprocessing is done to make computation faster and remove unnecessary items from the image. Like removing noise, Correcting images and removind unnecessary traits. Sharpening the image, scaling. Most importantly its also used to enhance the most important parts of the image.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Image Structure - Image Coordinate System.</title>
+      <link>https://rahulpathakml.github.io/post/understanding-image-structure---image-coordinate-system./</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/understanding-image-structure---image-coordinate-system./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Image Structure - Matrix Representation of Image.</title>
+      <link>https://rahulpathakml.github.io/post/understanding-image-structure---matrix-representation-of-image./</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/understanding-image-structure---matrix-representation-of-image./</guid>
+      <description>My curiosity of understanding pixels better made me plot the color channels of an RGB image separately. I was not in pursuit of any hi-fi results but just 3 plots of Red, Green, Blue channels separately. To accomplish this all I needed was slicing and chopping of Numpy arrays. In starting, I was only looking for a simple way to achieve this - but found 3 ways, each little different in terms of numpy function used.</description>
+    </item>
+    
+    <item>
+      <title>A Refresher for Numpy-Numerical Computation on high gears</title>
+      <link>https://rahulpathakml.github.io/post/a-refresher-for-numpy-numerical-computation-on-high-gears/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/a-refresher-for-numpy-numerical-computation-on-high-gears/</guid>
+      <description>Numpy is a package used for scientific computing in python. Numpy&amp;rsquo;s core is implemented in C/C++ providing fast implementations of matrices operations. Numpy also utilizes the processors SIMD and other instructions to make implementation faster
+What is Numpy Numpy is a package used for scientific computing in python. Numpy&amp;rsquo;s core is implemented in C/C++ providing fast implementations of matrices operations. Numpy also utilizes the processors SIMD and other instructions to make implementation faster.</description>
+    </item>
+    
+    <item>
+      <title>Example content - Markdown</title>
+      <link>https://rahulpathakml.github.io/post/example-content---markdown/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulpathakml.github.io/post/example-content---markdown/</guid>
+      <description>Text can be bold, italic, or strikethrough.
+Link to another page.
+There should be whitespace between paragraphs.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Header 1 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Header 2  This is a blockquote following a header.</description>
+    </item>
+    
+  </channel>
+</rss>
